@@ -29,10 +29,9 @@ To change the map in the simulation, add the included `.png` and `.yaml` map fil
 
 **Deliverable 1**: After you're finished, update the entire skeleton package directory with your `gap_follow` package and directly download the package, compress it in zip format and rename the zip file as lab3_\<your last name\>_\<your team number\>. Submit the renamed zip file directly to Canvas.
 
-**Deliverable 2**: Make a screen cast of running your reactive node in the simulation. Include a link to the video on YouTube in **`SUBMISSION.md`**. The basic requirement is that your car should be able to navigate entire loops in `levine_blocked` map, and through at least most of the obstacles in `levine_obs` map. Make screen casts on both maps.
-It is fine if it is not able to make the `levine_obs` map completeley, record as long as it can make and explain the failure in your SUBMISSION.md file.
+**Deliverable 2**: Make a screen cast of running your reactive node in the simulation. Include a link to the video on YouTube in **`SUBMISSION.md`**. The basic requirement is that your car should be able to navigate entire loops in `levine_blocked` map, and through at least 3 of the 5 obstacles in `levine_obs` map. For `levine_obs` you can do multiple runs and start your car in front of a different obstacle each time if you can't get through the entire map in one run. Make screen casts on both maps. Explain the failures in your SUBMISSION.md file.
 
-**Deliverable 3 (as a team)**: Make a recording of the run on the actual f1tenth car following the gap and completing a lap on a closed loop trajectory formed by flexible ducts and some objects on the track to show obstacle avoidance.
+**Deliverable 3 (as a team)**: Make a recording of the run on the actual f1tenth car following the gap. As before, you can simply do this in the AIMS hallway or form your own track. Place at least one obstacle in front of the car to demonstrate obstacle avoidance. 
 
 ### VI. Grading Rubric
 
@@ -40,7 +39,7 @@ It is fine if it is not able to make the `levine_obs` map completeley, record as
 - Implemented Find-Max Gap: **10** Points
 - Implemented Find best point: **10** Points
 - Levine blocked Video: **10** Points
-- Levine obstacles Video: **10** Points
+- Levine obstacles Video (Passes at least 3 of the 5 obstacles): **10** Points
 
 ### VII. Extra Resources
 
